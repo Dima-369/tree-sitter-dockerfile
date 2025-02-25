@@ -1,3 +1,7 @@
+# Changes
+
+- updated to latest `tree-sitter` version `0.25.2`
+
 tree-sitter-dockerfile
 ===========================
 
